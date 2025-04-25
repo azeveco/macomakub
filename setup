@@ -1,4 +1,4 @@
-echo "Cloning stable OMAKUB-WSL..."
-git clone -b stable https://github.com/azeveco/macomakub.git ~/.local/share/macomakub > /dev/null
+echo "Cloning stable macOmakub..."
+git clone -b main https://github.com/azeveco/macomakub.git ~/.local/share/macomakub > /dev/null
 
 source ~/.local/share/macomakub/install.sh
