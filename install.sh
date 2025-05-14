@@ -7,4 +7,4 @@ source ~/.local/share/macomakub/install/terminal/required/app-gum.sh >/dev/null
 
 source ~/.local/share/macomakub/install/terminal.sh
 
-source ~/.local/share/macomakub/install/desktop.sh
+# source ~/.local/share/macomakub/install/desktop.sh
